@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Strefa XY</title>
+    <link>https://www.youtube.com/channel/UCKWBVuXB0pS-lVu7zDOFAAQ</link>
+    <language>pl</language>
+    <description>Strefa XY to podcast o formacji męskiej, duchowości katolickiej i rozwoju osobistym. Treści biblijne, refleksje o męskiej tożsamości i autentycznym życiu wiarą. Kanał Fundacji Droga Odważnych.</description>
+    <itunes:author>Strefa XY</itunes:author>
+    <itunes:owner>
+      <itunes:name>Strefa XY</itunes:name>
+      <itunes:email>UZUPELNIJ_EMAIL</itunes:email>
+    </itunes:owner>
+    <itunes:image href="UZUPELNIJ_URL_OKLADKI"/>
+    <itunes:category text="Religion &amp; Spirituality">
+      <itunes:category text="Christianity"/>
+    </itunes:category>
+    <itunes:explicit>false</itunes:explicit>
+    <atom:link href="UZUPELNIJ_RSS_URL" rel="self" type="application/rss+xml"/>
+
+    <!-- EPISODES_START -->
+    <!-- Nowe odcinki będą dodawane tutaj przez N8N -->
+    <!-- EPISODES_END -->
+
+  </channel>
+</rss>
