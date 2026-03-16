@@ -14,8 +14,9 @@
       <itunes:email>biuro@strefaxy.pl</itunes:email>
     </itunes:owner>
     <itunes:image href="https://pub-3a6c6411a5454ffbb5e642f6e94f6fef.r2.dev/cover.png"/>
-    <itunes:category text="Religion &amp; Spirituality">
-      <itunes:category text="Christianity"/>
+    <itunes:category text="Society &amp; Culture"/>
+    <itunes:category text="Health &amp; Fitness">
+      <itunes:category text="Mental Health"/>
     </itunes:category>
     <itunes:explicit>false</itunes:explicit>
     <atom:link href="https://drogaodwaznych.github.io/podcast-rss/rss.xml" rel="self" type="application/rss+xml"/>
