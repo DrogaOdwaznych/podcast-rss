@@ -11,14 +11,14 @@
     <itunes:author>Strefa XY</itunes:author>
     <itunes:owner>
       <itunes:name>Strefa XY</itunes:name>
-      <itunes:email>UZUPELNIJ_EMAIL</itunes:email>
+      <itunes:email>biuro@strefaxy.pl</itunes:email>
     </itunes:owner>
-    <itunes:image href="UZUPELNIJ_URL_OKLADKI"/>
+    <itunes:image href="https://pub-3a6c6411a5454ffbb5e642f6e94f6fef.r2.dev/cover.png"/>
     <itunes:category text="Religion &amp; Spirituality">
       <itunes:category text="Christianity"/>
     </itunes:category>
     <itunes:explicit>false</itunes:explicit>
-    <atom:link href="UZUPELNIJ_RSS_URL" rel="self" type="application/rss+xml"/>
+    <atom:link href="https://drogaodwaznych.github.io/podcast-rss/rss.xml" rel="self" type="application/rss+xml"/>
 
     <!-- EPISODES_START -->
     <!-- Nowe odcinki będą dodawane tutaj przez N8N -->
