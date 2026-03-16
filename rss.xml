@@ -22,6 +22,25 @@
     <atom:link href="https://drogaodwaznych.github.io/podcast-rss/rss.xml" rel="self" type="application/rss+xml"/>
 
     <!-- EPISODES_START -->
+    <item>
+      <title>Kompas Biblijny #2</title>
+      <description><![CDATA[Czy Twój post to duchowe wyzwanie — czy tylko odchudzanie? To pytanie, które zadaje w tym odcinku nasz gość, i odpowiedź może zmienić sposób, w jaki przeżywasz Wielki Post oraz każdy piątek w ciągu roku.
+
+W drugim odcinku serii Kompas Biblijny przyglądamy się tematowi postu i wstrzemięźliwości z perspektywy biblijnej — od Księgi Kapłańskiej, przez Księgę Sędziów, aż po nauczanie Jezusa w Ewangelii Mateusza. Dowiesz się, że post bez intencji to jedynie dieta, a właściwie rozumiany ma trzy wymiary: pokutny, zaufania do Boga i budowania wewnętrznej siły. Usłyszysz też osobistą historię o rowerowej wyprawie do Rzymu, która pokazuje, czym naprawdę jest zdanie się na Bożą Opatrzność. Na koniec pojawia się prowokujące pytanie: czy w Twoim życiu jest miejsce na post od scrollowania i bezużytecznych treści, które nic w Tobie nie budują?
+
+Ten odcinek to zaproszenie do głębszego przeżycia czasu postu — nie przez ból żołądka, ale przez świadome wyrzeczenie, które odnawia relację z Bogiem i kształtuje charakter mężczyzny.
+
+---
+Ten odcinek to wersja audio z kanału YouTube Strefa XY. Oglądaj wideo, subskrybuj i bądź na bieżąco:
+https://www.youtube.com/@StrefaXY
+
+#StrefaXY #KompasBiblijny #Post]]></description>
+      <enclosure url="https://pub-3a6c6411a5454ffbb5e642f6e94f6fef.r2.dev/kb#2.mp3" type="audio/mpeg" length="24729408"/>
+      <guid isPermaLink="false">strefaxy-1773669608575</guid>
+      <pubDate>Mon, 16 Mar 2026 14:00:08 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <!-- Nowe odcinki będą dodawane tutaj przez N8N -->
     <!-- EPISODES_END -->
 
